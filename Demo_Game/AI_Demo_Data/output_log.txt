@@ -1,0 +1,34 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 775M (ID=0x119d)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\work sync\百度云同步盘\AI demo\AI_Demo_Data\Managed\Boo.Lang.dll (this message is harmless)
+Shader 'Nature/Terrain/Specular': fallback shader 'Nature/Terrain/Diffuse' not found
+Shader 'Nature/Terrain/Standard': fallback shader 'Nature/Terrain/Diffuse' not found
+dragon num1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+player num1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
