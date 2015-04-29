@@ -14,4 +14,4 @@ the adaptive AI code is mainly in the dragonAI.cs,dragonBattleAI.cs and Knowledg
 Download and have fun!
 
 
-if you have any suggestions or questions, welcome to leave a reply.
+if you have any suggestions or questions, feel free to contact me.
