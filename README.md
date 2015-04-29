@@ -2,7 +2,7 @@
 
 Demo is based on monster hunter's concept, and made by unity3D.
 
-the Adaptive AI is used to improve the npc's intelligence, mainly focusing on dynamically deciding the most rensonable action based on the interactions with the player.
+Adaptive AI is used to improve the npc's intelligence, mainly focusing on dynamically deciding the most rensonable action while interacting with the player.
 
 Demo's feature include:
 1. use reinforcement learning to improve the npc's AI(Q-learning and UCB1)
