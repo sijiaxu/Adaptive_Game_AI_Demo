@@ -6,7 +6,7 @@ Adaptive AI is used to improve the npc's intelligence, mainly focusing on dynami
 
 Demo's feature include:
 
-1. use reinforcement learning to improve the npc's AI(Q-learning and UCB1), now npc's action is adapting to player's behavious.
+1. use reinforcement learning to improve the npc's AI(Q-learning and UCB1), now npc's action is adapting to player's behavious(in demo it refers to change dragon's action execution condition).
 2. learning procedure converge fast and cost just a little computation, so it can execute efficiently and get the effective result in time. 
 3. Adaptive AI is developing based on the traditional FSM framework. so it can quickly apply to the exsiting games and scale up easily.
 
